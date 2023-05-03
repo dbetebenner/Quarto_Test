@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "License",
+    "section": "",
+    "text": "This page brought to you by https://example.com\n\n\n\n\nLicense\nThis is a human-readable summary of (and not a substitute for) the license. Please see https://creativecommons.org/licenses/by-sa/4.0/legalcode for the full legal text.\nThis work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).\nYou are free to:\n\nShare—copy and redistribute the material in any medium or format\nAdapt—remix, transform, and build upon the material for any purpose, even commercially.\n\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nShareAlike—If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\nNotices:\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This page brought to you by https://example.com\nWelcome to the effective data visualisation with R workshop!\nTuesday 6th December 2022\n 9.00AM - 12.00PM AEDT\n Zoom (links provided to participants via email)"
+  },
+  {
+    "objectID": "about.html#materials",
+    "href": "about.html#materials",
+    "title": "Welcome",
+    "section": "Materials",
+    "text": "Materials\nAll materials are hosted on a GitHub repo here and can be downloaded here as a zip file (including the website, slides and exercises).\nOnce the material is downloaded, open the docs/index.html in a browser to see this website (emitanaka.org/EDVR-workshop)."
+  },
+  {
+    "objectID": "about.html#schedule",
+    "href": "about.html#schedule",
+    "title": "Welcome",
+    "section": "Schedule",
+    "text": "Schedule"
+  },
+  {
+    "objectID": "about.html#installation",
+    "href": "about.html#installation",
+    "title": "Welcome",
+    "section": "Installation",
+    "text": "Installation\nThis is only needed if the exercise links above do not work for you.\n\ninstall.packages(c(\"remotes\", \"learnr\"))\nremotes::install_github(\"emitanaka/EDVR-workshop/pkg\")"
+  },
+  {
+    "objectID": "about.html#exercises",
+    "href": "about.html#exercises",
+    "title": "Welcome",
+    "section": "Exercises",
+    "text": "Exercises\nTo run the exercises locally, install the packages under Installation and then run:\n\nlearnr::run_tutorial(\"exercise-01\", package = \"edvr.workshop\")\nlearnr::run_tutorial(\"exercise-02\", package = \"edvr.workshop\")"
+  },
+  {
     "objectID": "documents.html",
     "href": "documents.html",
     "title": "About",

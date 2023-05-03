@@ -5,21 +5,21 @@ project:
    - "*.qmd"
    - "!pkg/"
 
+exectute:
+  freeze: auto
+
 website:
   site-url: "https://dbetebenner.github.io/Quarto_Test/"
   repo-url: "https://github.com/dbetebenner/Quarto_Test"
   title: "Effective Data Visualisation with R"
   repo-actions: [edit, issue]
   favicon: /assets/favicon.png
-  twitter-card:
-    creator: "@dbetebenner"
-    site: "@nciea1"
-  open-graph: true
   body-header: | 
    This page brought to you by <https://example.com>
   margin-header: |
-   ![Logo image](/assets/favicon.png)
+   ![Center for Assessment](/assets/favicon.png)
 
+  # navigation
   page-navigation: true
   navbar:
     title: "Quarto Test"
@@ -39,6 +39,27 @@ website:
         href: https://github.com/dbetebenner
       - icon: twitter
         href: https://twitter.com/dbetebenner
+
+  search:
+    location: navbar
+    type: overlay
+    copy-button: true
+
+  #footer
+  page-footer:
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "LICENSE"
+        href: LICENSE.qmd
+      - text: "View source on Github"
+        href: https://https://github.com/dbetebenner/Quarto_Test
+
+  #socials
+  open-graph: true
+  twitter-card: 
+    creator: "@dbetebenner"
+    site: "@nciea1"
 
 format:
   html:
