@@ -6,9 +6,9 @@ project:
    - "!pkg/"
 
 website:
-  site-url: "https:/https://dbetebenner.github.io/Quarto_Test"
-  repo-url: "https://github.com/dbetebenner/Quarto_Test"
-  title: "Quarto Test"
+  site-url: "https://emitanaka.org/EDVR-workshop/"
+  repo-url: "https://github.com/emitanaka/EDVR-workshop"
+  title: "Effective Data Visualisation with R"
   repo-actions: [edit, issue]
   navbar:
     left:

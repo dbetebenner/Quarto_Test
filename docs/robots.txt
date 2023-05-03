@@ -1,1 +1,1 @@
-Sitemap: https:/https://dbetebenner.github.io/Quarto_Test/sitemap.xml
+Sitemap: https://emitanaka.org/EDVR-workshop/sitemap.xml
