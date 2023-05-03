@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "In this 3 hour tutorial, I will demonstrate some cognitive principles and apply methods supported by empirical studies that make data visualisation more effective. The construction of data visualisation will be accompanied with R code using the ggplot2 package. The R code and data used will be provided so participants can fully replicate the presented data visualisations.\nParticipants are expected to know how to use R. Some knowledge in tidyverse would be beneficial. You can find an interactive introduction to data analysis with R at https://learnr.numbat.space/."
+    "text": "This page brought to you by https://example.com\nIn this 3 hour tutorial, I will demonstrate some cognitive principles and apply methods supported by empirical studies that make data visualisation more effective. The construction of data visualisation will be accompanied with R code using the ggplot2 package. The R code and data used will be provided so participants can fully replicate the presented data visualisations.\nParticipants are expected to know how to use R. Some knowledge in tidyverse would be beneficial. You can find an interactive introduction to data analysis with R at https://learnr.numbat.space/."
   },
   {
     "objectID": "about.html#biography-of-workshop-presenter",
@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to the effective data visualisation with R workshop!\nTuesday 6th December 2022\n 9.00AM - 12.00PM AEDT\n Zoom (links provided to participants via email)"
+    "text": "This page brought to you by https://example.com\nWelcome to the effective data visualisation with R workshop!\nTuesday 6th December 2022\n 9.00AM - 12.00PM AEDT\n Zoom (links provided to participants via email)"
   },
   {
     "objectID": "index.html#materials",
