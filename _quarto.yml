@@ -14,10 +14,6 @@ website:
   title: "Effective Data Visualisation with R"
   repo-actions: [edit, issue]
   favicon: /assets/favicon.png
-  body-header: | 
-   This page brought to you by <https://example.com>
-  margin-header: |
-   ![Center for Assessment](/assets/favicon.png)
 
   # navigation
   page-navigation: true
