@@ -10,6 +10,7 @@ website:
   repo-url: "https://github.com/emitanaka/EDVR-workshop"
   title: "Effective Data Visualisation with R"
   repo-actions: [edit, issue]
+  favicon: "https://centerforassessment.github.io/SGP/img/favicon.png"
   navbar:
     left:
       - href: index.qmd
