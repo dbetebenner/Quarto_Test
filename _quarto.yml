@@ -6,11 +6,11 @@ project:
    - "!pkg/"
 
 website:
-  site-url: "https://emitanaka.org/EDVR-workshop/"
-  repo-url: "https://github.com/emitanaka/EDVR-workshop"
+  site-url: "https://dbetebenner.github.io/Quarto_Test/"
+  repo-url: "https://github.com/dbetebenner/Quarto_Test"
   title: "Effective Data Visualisation with R"
   repo-actions: [edit, issue]
-  favicon: "/assets/favicon.png"
+  favicon: /assets/favicon.png
   twitter-card:
     creator: "@dbetebenner"
     site: "@nciea1"
@@ -19,18 +19,33 @@ website:
    This page brought to you by <https://example.com>
   margin-header: |
    ![Logo image](/assets/favicon.png)
+
+  page-navigation: true
   navbar:
+    title: "Quarto Test"
+    logo: assets/favicon.png
+    logo-href: "https://centerforassessment.github.io/"
+    search: false
+    pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Documents
+        href: documents.qmd
+      - text: Presentations 
+        href: presentations.qmd
+      - text: News
+        href: news.qmd
+    right:
+      - icon: github
+        href: https://github.com/dbetebenner
+      - icon: twitter
+        href: https://twitter.com/dbetebenner
 
 format:
   html:
     theme:
      - yeti
      - assets/custom.scss
-    css: assets/styles.css
+    css: /assets/styles.css
     toc: true
     include-after: |
       <link rel="stylesheet" href="/assets/fontawesome-free-6.1.1-web/css/all.min.css">

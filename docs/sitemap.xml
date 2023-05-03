@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://emitanaka.org/EDVR-workshop/about.html</loc>
-    <lastmod>2023-05-03T13:02:50.778Z</lastmod>
+    <loc>https://dbetebenner.github.io/Quarto_Test/documents.html</loc>
+    <lastmod>2023-05-03T16:45:38.879Z</lastmod>
   </url>
   <url>
-    <loc>https://emitanaka.org/EDVR-workshop/index.html</loc>
-    <lastmod>2023-05-03T13:02:51.568Z</lastmod>
+    <loc>https://dbetebenner.github.io/Quarto_Test/index.html</loc>
+    <lastmod>2023-05-03T16:45:39.642Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dbetebenner.github.io/Quarto_Test/news.html</loc>
+    <lastmod>2023-05-03T16:45:39.881Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dbetebenner.github.io/Quarto_Test/presentations.html</loc>
+    <lastmod>2023-05-03T16:45:40.120Z</lastmod>
   </url>
 </urlset>
