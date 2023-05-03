@@ -19,7 +19,7 @@ website:
 format:
   html:
     theme:
-     - sketchy
+     - yeti
      - assets/custom.scss
     css: assets/styles.css
     toc: true
