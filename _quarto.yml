@@ -23,13 +23,14 @@ website:
     logo-href: "https://centerforassessment.github.io/"
     search: false
     pinned: true
-    right:
+    center:
       - text: Documents
         href: documents.qmd
       - text: Presentations 
         href: presentations.qmd
       - text: News
         href: news.qmd
+    right:
       - icon: github
         href: https://github.com/dbetebenner
       - icon: twitter
