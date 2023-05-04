@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Index"
 ---
 
 Welcome to the [effective data visualisation with R]{style="color:#006DAE;"} workshop!
@@ -41,4 +41,11 @@ To run the exercises locally, install the packages under [Installation](#install
 learnr::run_tutorial("exercise-01", package = "edvr.workshop")
 learnr::run_tutorial("exercise-02", package = "edvr.workshop")
 ```
+
+
+## Lorum Ipsum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

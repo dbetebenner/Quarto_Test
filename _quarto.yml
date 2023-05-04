@@ -11,26 +11,26 @@ exectute:
 website:
   site-url: "https://dbetebenner.github.io/Quarto_Test/"
   repo-url: "https://github.com/dbetebenner/Quarto_Test"
-  title: "Effective Data Visualisation with R"
+  title: "Effective Data Visualization with R"
   repo-actions: [edit, issue]
-  favicon: /assets/favicon.png
+  favicon: ./assets/logo_color.png
 
   # navigation
   page-navigation: true
   navbar:
     title: "Quarto Test"
-    logo: assets/favicon.png
+    logo: ./assets/logo_color.png
     logo-href: "https://centerforassessment.github.io/"
     search: false
     pinned: true
-    center:
+    foreground: "#7c7c7c"
+    right:
       - text: Documents
         href: documents.qmd
       - text: Presentations 
         href: presentations.qmd
       - text: News
         href: news.qmd
-    right:
       - icon: github
         href: https://github.com/dbetebenner
       - icon: twitter
@@ -60,10 +60,12 @@ website:
 format:
   html:
     theme:
-     - yeti
-     - assets/custom.scss
-    css: /assets/styles.css
+     - cosmo
+     - ./assets/custom.scss
+    css: ./assets/styles.css
     toc: true
     include-after: |
       <link rel="stylesheet" href="/assets/fontawesome-free-6.1.1-web/css/all.min.css">
       <script src="/assets/fontawesome-free-6.1.1-web/js/all.min.js"></script>
+      <script src="/assets/scroll.js"></script>
+      <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600" rel="stylesheet" type="text/css">

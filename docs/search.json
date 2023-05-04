@@ -9,98 +9,133 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Welcome",
+    "title": "About",
     "section": "",
     "text": "Welcome to the effective data visualisation with R workshop!\nTuesday 6th December 2022\n 9.00AM - 12.00PM AEDT\n Zoom (links provided to participants via email)"
   },
   {
     "objectID": "about.html#materials",
     "href": "about.html#materials",
-    "title": "Welcome",
+    "title": "About",
     "section": "Materials",
     "text": "Materials\nAll materials are hosted on a GitHub repo here and can be downloaded here as a zip file (including the website, slides and exercises).\nOnce the material is downloaded, open the docs/index.html in a browser to see this website (emitanaka.org/EDVR-workshop)."
   },
   {
     "objectID": "about.html#schedule",
     "href": "about.html#schedule",
-    "title": "Welcome",
+    "title": "About",
     "section": "Schedule",
     "text": "Schedule"
   },
   {
     "objectID": "about.html#installation",
     "href": "about.html#installation",
-    "title": "Welcome",
+    "title": "About",
     "section": "Installation",
     "text": "Installation\nThis is only needed if the exercise links above do not work for you.\n\ninstall.packages(c(\"remotes\", \"learnr\"))\nremotes::install_github(\"emitanaka/EDVR-workshop/pkg\")"
   },
   {
     "objectID": "about.html#exercises",
     "href": "about.html#exercises",
-    "title": "Welcome",
+    "title": "About",
     "section": "Exercises",
     "text": "Exercises\nTo run the exercises locally, install the packages under Installation and then run:\n\nlearnr::run_tutorial(\"exercise-01\", package = \"edvr.workshop\")\nlearnr::run_tutorial(\"exercise-02\", package = \"edvr.workshop\")"
   },
   {
     "objectID": "documents.html",
     "href": "documents.html",
-    "title": "About",
+    "title": "Documents",
     "section": "",
     "text": "In this 3 hour tutorial, I will demonstrate some cognitive principles and apply methods supported by empirical studies that make data visualisation more effective. The construction of data visualisation will be accompanied with R code using the ggplot2 package. The R code and data used will be provided so participants can fully replicate the presented data visualisations.\nParticipants are expected to know how to use R. Some knowledge in tidyverse would be beneficial. You can find an interactive introduction to data analysis with R at https://learnr.numbat.space/."
   },
   {
     "objectID": "documents.html#biography-of-workshop-presenter",
     "href": "documents.html#biography-of-workshop-presenter",
-    "title": "About",
+    "title": "Documents",
     "section": "Biography of Workshop Presenter",
     "text": "Biography of Workshop Presenter\nDr. Emi Tanaka is a Senior Lecturer in Statistics at Monash University whose primary interest is to develop impactful statistical methods and tools that can readily be used by practitioners. Her research area includes data visualisation, mixed models and experimental designs, motivated primarily by problems in bioinformatics and agricultural sciences. She is currently the President of the Statistical Society of Australia Victorian Branch and the recipient of the Distinguished Presenter’s Award from the Statistical Society of Australia for her delivery of a wide-range of R workshops."
   },
   {
+    "objectID": "documents.html#lorum-ipsum",
+    "href": "documents.html#lorum-ipsum",
+    "title": "Documents",
+    "section": "Lorum Ipsum",
+    "text": "Lorum Ipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "In this 3 hour tutorial, I will demonstrate some cognitive principles and apply methods supported by empirical studies that make data visualisation more effective. The construction of data visualisation will be accompanied with R code using the ggplot2 package. The R code and data used will be provided so participants can fully replicate the presented data visualisations.\nParticipants are expected to know how to use R. Some knowledge in tidyverse would be beneficial. You can find an interactive introduction to data analysis with R at https://learnr.numbat.space/."
+  },
+  {
+    "objectID": "home.html#biography-of-workshop-presenter",
+    "href": "home.html#biography-of-workshop-presenter",
+    "title": "Home",
+    "section": "Biography of Workshop Presenter",
+    "text": "Biography of Workshop Presenter\nDr. Emi Tanaka is a Senior Lecturer in Statistics at Monash University whose primary interest is to develop impactful statistical methods and tools that can readily be used by practitioners. Her research area includes data visualisation, mixed models and experimental designs, motivated primarily by problems in bioinformatics and agricultural sciences. She is currently the President of the Statistical Society of Australia Victorian Branch and the recipient of the Distinguished Presenter’s Award from the Statistical Society of Australia for her delivery of a wide-range of R workshops."
+  },
+  {
+    "objectID": "home.html#lorum-ipsum",
+    "href": "home.html#lorum-ipsum",
+    "title": "Home",
+    "section": "Lorum Ipsum",
+    "text": "Lorum Ipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Index",
     "section": "",
     "text": "Welcome to the effective data visualisation with R workshop!\nTuesday 6th December 2022\n 9.00AM - 12.00PM AEDT\n Zoom (links provided to participants via email)"
   },
   {
     "objectID": "index.html#materials",
     "href": "index.html#materials",
-    "title": "Welcome",
+    "title": "Index",
     "section": "Materials",
     "text": "Materials\nAll materials are hosted on a GitHub repo here and can be downloaded here as a zip file (including the website, slides and exercises).\nOnce the material is downloaded, open the docs/index.html in a browser to see this website (emitanaka.org/EDVR-workshop)."
   },
   {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
-    "title": "Welcome",
+    "title": "Index",
     "section": "Schedule",
     "text": "Schedule"
   },
   {
     "objectID": "index.html#installation",
     "href": "index.html#installation",
-    "title": "Welcome",
+    "title": "Index",
     "section": "Installation",
     "text": "Installation\nThis is only needed if the exercise links above do not work for you.\n\ninstall.packages(c(\"remotes\", \"learnr\"))\nremotes::install_github(\"emitanaka/EDVR-workshop/pkg\")"
   },
   {
     "objectID": "index.html#exercises",
     "href": "index.html#exercises",
-    "title": "Welcome",
+    "title": "Index",
     "section": "Exercises",
     "text": "Exercises\nTo run the exercises locally, install the packages under Installation and then run:\n\nlearnr::run_tutorial(\"exercise-01\", package = \"edvr.workshop\")\nlearnr::run_tutorial(\"exercise-02\", package = \"edvr.workshop\")"
   },
   {
+    "objectID": "index.html#lorum-ipsum",
+    "href": "index.html#lorum-ipsum",
+    "title": "Index",
+    "section": "Lorum Ipsum",
+    "text": "Lorum Ipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
-    "title": "About",
+    "title": "News",
     "section": "",
     "text": "In this 3 hour tutorial, I will demonstrate some cognitive principles and apply methods supported by empirical studies that make data visualisation more effective. The construction of data visualisation will be accompanied with R code using the ggplot2 package. The R code and data used will be provided so participants can fully replicate the presented data visualisations.\nParticipants are expected to know how to use R. Some knowledge in tidyverse would be beneficial. You can find an interactive introduction to data analysis with R at https://learnr.numbat.space/."
   },
   {
     "objectID": "news.html#biography-of-workshop-presenter",
     "href": "news.html#biography-of-workshop-presenter",
-    "title": "About",
+    "title": "News",
     "section": "Biography of Workshop Presenter",
     "text": "Biography of Workshop Presenter\nDr. Emi Tanaka is a Senior Lecturer in Statistics at Monash University whose primary interest is to develop impactful statistical methods and tools that can readily be used by practitioners. Her research area includes data visualisation, mixed models and experimental designs, motivated primarily by problems in bioinformatics and agricultural sciences. She is currently the President of the Statistical Society of Australia Victorian Branch and the recipient of the Distinguished Presenter’s Award from the Statistical Society of Australia for her delivery of a wide-range of R workshops."
   },

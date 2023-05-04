@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "About"
 ---
 
 Welcome to the [effective data visualisation with R]{style="color:#006DAE;"} workshop!
