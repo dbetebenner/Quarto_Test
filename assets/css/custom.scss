@@ -45,7 +45,7 @@ $headings-font-weight:  500 !default;
  }
 
  .navbar-logo {
-    background-image: url(./assets/logo_grey.png);
+    background-image: url(./assets/img/logo_grey.png);
     max-height: 36px;
     transition: all 0.25s; 
  }
@@ -56,7 +56,7 @@ $headings-font-weight:  500 !default;
  }
 
  .navbar-logo:hover, .navbar-logo:focus {
-    background-image: url(./assets/logo_color.png);
+    background-image: url(./assets/img/logo_color.png);
     transition: all 0.25s;
  }
 
