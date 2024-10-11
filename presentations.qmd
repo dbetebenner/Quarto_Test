@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Presentations"
 ---
 
 In this 3 hour tutorial, I will demonstrate some cognitive principles and apply methods supported by empirical studies that make data visualisation more effective. The construction of data visualisation will be accompanied with R code using the ggplot2 package. The R code and data used will be provided so participants can fully replicate the presented data visualisations.

@@ -5,7 +5,7 @@ project:
    - "*.qmd"
    - "!pkg/"
 
-exectute:
+execute:
   freeze: auto
 
 website:
@@ -13,13 +13,13 @@ website:
   repo-url: "https://github.com/dbetebenner/Quarto_Test"
   title: "Effective Data Visualization with R"
   repo-actions: [edit, issue]
-  favicon: ./assets/logo_color.png
+  favicon: ./assets/img/logo_color.png
 
   # navigation
   page-navigation: true
   navbar:
     title: "Quarto Test"
-    logo: ./assets/logo_color.png
+    logo: ./assets/img/logo_grey.png
     logo-href: "https://centerforassessment.github.io/"
     search: false
     pinned: true
@@ -32,8 +32,10 @@ website:
       - text: News
         href: news.qmd
       - icon: github
-        href: https://github.com/dbetebenner
+        aria-label: github
+        href: https://github.com/dbetebenner/Quarto_Test
       - icon: twitter
+        aria-label: twitter
         href: https://twitter.com/dbetebenner
 
   search:
@@ -44,11 +46,11 @@ website:
   #footer
   page-footer:
     center:
-      - text: "About"
+      - text: About
         href: about.qmd
-      - text: "LICENSE"
-        href: LICENSE.qmd
-      - text: "View source on Github"
+      - icon: github
+        text: GitHub
+        aria-label: github
         href: https://https://github.com/dbetebenner/Quarto_Test
 
   #socials
@@ -61,11 +63,11 @@ format:
   html:
     theme:
      - cosmo
-     - ./assets/custom.scss
-    css: ./assets/styles.css
+     - ./assets/css/custom.scss
+    css: ./assets/css/styles.css
     toc: true
     include-after: |
-      <link rel="stylesheet" href="/assets/fontawesome-free-6.1.1-web/css/all.min.css">
-      <script src="/assets/fontawesome-free-6.1.1-web/js/all.min.js"></script>
-      <script src="/assets/scroll.js"></script>
       <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600" rel="stylesheet" type="text/css">
+      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+      <script type="text/javascript" src="/assets/js/jquery.sticky-kit.min.js"></script>
+      <script type="text/javascript" src="/assets/js/scroll.js"></script>
